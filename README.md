@@ -12,6 +12,6 @@
 **Умею:** Python 3, Django, Flask, Scrapy, Selenium, DRF, ORM, SQL, Linux, GIT, Docker
 
 
-Полное резюме - [тут](https://andmerk93.github.io/)
+Полное резюме - [тут](https://andmerk93.github.io/andmerk93/)
 
 Примеры работ ниже
