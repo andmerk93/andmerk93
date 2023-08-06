@@ -14,4 +14,8 @@
 
 Полное резюме - [тут](https://andmerk93.github.io/andmerk93/)
 
+Телеграм - [@andmerk93](https://t.me/andmerk93)
+
+Почта - am93work@yandex.ru
+
 Примеры работ ниже
