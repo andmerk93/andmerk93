@@ -19,4 +19,6 @@
 
 Почта - am93work@yandex.ru
 
+Примеры домашних скриптов на Selenium + AutoIT - [Gist](https://gist.github.com/andmerk93)
+
 Примеры работ ниже
